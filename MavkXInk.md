@@ -2,13 +2,13 @@
 
 ## 🎯 **Executive Summary**
 
-**Mavrk** presents a unique opportunity for **Kraken/Ink Chain** to acquire or incubate a revolutionary multi-chain token launchpad that would significantly enhance the **Inky app** ecosystem. This platform enables one-click token creation with immediate liquidity across all EVM chains, creating a powerful revenue-generating machine through trading fee collection.
+**Mavrk** presents a unique opportunity for **Kraken/Ink Chain** to acquire or incubate a revolutionary multi-chain token launchpad that would significantly enhance the Kraken/Ink ecosystem. This platform enables one-click token creation with immediate liquidity across all EVM chains, creating a powerful revenue-generating machine through trading fee collection.
 
-## 🚀 **Strategic Value for Kraken/Inky**
+## 🚀 **Strategic Value for Kraken/Ink**
 
-### **Inky App Enhancement**
-- **"Create Your Token" Feature**: Add native token creation capability to Inky app
-- **Multi-Chain Support**: Leverage existing Inky infrastructure across all EVM chains
+### **Ink/Inky App Enhancement**
+- **"Create Your Token" Feature**: Add native token creation capability to for Ink native applications (e.g., Inky app)
+- **Multi-Chain Support**: Leverage existing InkF infrastructure across all EVM chains
 - **Seamless Integration**: Users can create and trade tokens within the same app
 - **Enhanced User Experience**: One-stop solution for token creation and trading
 
